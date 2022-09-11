@@ -1,0 +1,19 @@
+{
+  "name": "@antongusev111/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/undex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonGusev111/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonGusev111/ajs/issues"
+  },
+  "homepage": "https://github.com/AntonGusev111/ajs#readme"
+}
