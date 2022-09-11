@@ -1,8 +1,8 @@
 {
   "name": "@antongusev111/ajs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
-  "main": "dist/undex.js",
+  "main": "dist/index.js",
 "publishConfig": {
     "registry":"https://npm.pkg.github.com/"
   },
